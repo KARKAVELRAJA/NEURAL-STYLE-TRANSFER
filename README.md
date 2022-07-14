@@ -17,3 +17,11 @@
 - Loading the Pre-Trained Model ("http://tfhub.dev/google/magenta/arbitrary-image-stylization-v1-256/2")
 - Visualizing the Result
 - Storing the Result
+
+-----
+
+### FILES
+
+- content_image.jpg  - Input Image  - Content Image
+- style_image.jpg    - Input Image  - Style (Reference) Image
+- stylized_image.jpg - Output Image - Stylized Image
